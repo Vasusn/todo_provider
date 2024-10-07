@@ -54,16 +54,18 @@ A simple Todo application built with Flutter that allows users to add, update, d
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center; margin-right: 20px;">
-        <img src="screenshots/todo_list.png" alt="Todo List" width="300" height="200"/>  
-        <p>Todo List</p>
-    </div>
-    <div style="text-align: center; margin-left: 20px;">
-        <img src="screenshots/add_todo.png" alt="Add Todo" width="300" height="200"/>  
-        <p>Add Todos</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/todo_list.png" alt="Todo List" width="300" hight="500"/>  
+      <p></p>
+    </td>
+    <td>
+      <img src="screenshots/add_todo.png" alt="Add Todo" width="300" hight="500"/>  
+      <p></p>
+    </td>
+  </tr>
+</table>
 
  
 
